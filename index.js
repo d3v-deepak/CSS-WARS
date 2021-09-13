@@ -16,7 +16,6 @@ var highScorers={
 
 
 
-
 var questions=[
 
 {
